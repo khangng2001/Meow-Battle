@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3df7bbda9baa2f46b21174820bd6664, type: 3}
+  m_Name: SkinListOwn
+  m_EditorClassIdentifier: 
+  skinSOList:
+  - {fileID: 11400000, guid: fc9687c38ce322e47ac2b152f642b02e, type: 2}
+  - {fileID: 11400000, guid: dbd0cdb2979521a4ba4a075eb2686e4d, type: 2}
+  - {fileID: 11400000, guid: 4cd665605cff7fe40966d5684de97ea9, type: 2}
+  - {fileID: 11400000, guid: a230127192bcdc544902b0ba48ad389d, type: 2}
+  - {fileID: 11400000, guid: dcf6621fa75f35949b608e979a068656, type: 2}
+  expressionSOList:
+  - {fileID: 11400000, guid: c3181614ea2b1754d96146c52fe2cd46, type: 2}
+  - {fileID: 11400000, guid: 3c066901995bfd34794cca83de21fa90, type: 2}
+  - {fileID: 11400000, guid: b83137fa1aa17ea43bfda09e44c8a87c, type: 2}

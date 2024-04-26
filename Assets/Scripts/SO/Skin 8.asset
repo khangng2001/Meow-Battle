@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3d365612ec22754c9dfb3996780a0f6, type: 3}
+  m_Name: Skin 8
+  m_EditorClassIdentifier: 
+  skinID: skin_08
+  skinName: Red
+  skinSprite: {fileID: 21300000, guid: e225137d4674f1e44b2a2370839c6ebf, type: 3}
+  skinMaterial: {fileID: 2100000, guid: 5a2b881e79471b84bbb2583790cb6698, type: 2}
+  skinPrice: 300
+  skinType: 0
