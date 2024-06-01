@@ -1,4 +1,4 @@
-# Hungry_in_dungeon
+# MEOW BATTLE
  Our group created this project for the FPT Aptech Game Development with Unity course. This project's participants are: 
  
 -  Nguyễn Phú Khang - Student1450743
